@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>サポート - サプリコーチ</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.8; color: #333; }
+        h1 { color: #00BAB5; border-bottom: 2px solid #00BAB5; padding-bottom: 10px; }
+        h2 { color: #00BAB5; margin-top: 30px; }
+        p { margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>サプリコーチ サポート</h1>
+
+    <h2>お問い合わせ</h2>
+    <p>アプリに関するご質問、不具合の報告、ご要望は以下のメールアドレスまでお気軽にご連絡ください。</p>
+    <p>メール: rinana1257@gmail.com</p>
+
+    <h2>よくある質問</h2>
+
+    <h2>Q. データはどこに保存されますか？</h2>
+    <p>すべてのデータはお使いの端末内に保存されます。外部サーバーに個人データが保存されることはありません。</p>
+
+    <h2>Q. 機種変更時にデータは引き継げますか？</h2>
+    <p>現在のバージョンではデータのバックアップ・引き継ぎ機能は未対応です。今後のアップデートで対応予定です。</p>
+
+    <h2>Q. プレミアムの解約方法は？</h2>
+    <p>iPhoneの「設定」→ ご自身の名前 →「サブスクリプション」から解約できます。</p>
+
+    <h2>Q. AI分析はどのように行われますか？</h2>
+    <p>お客様の服用記録と体調記録をもとに、AIが傾向を分析します。送信されるデータに氏名やメールアドレス等の個人を特定する情報は含まれません。</p>
+</body>
+</html>
